@@ -9,5 +9,7 @@ body {
   background-color: black;
   color: white;
   text-align: center;
+  -webkit-text-decoration: dashed;
+          text-decoration: dashed;
 }
 /*# sourceMappingURL=style.css.map */
